@@ -1,0 +1,4 @@
+psycopg2-binary
+django
+django-widget-tweaks
+django-allauth
